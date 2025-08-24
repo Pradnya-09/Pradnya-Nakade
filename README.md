@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pradnya Nakade</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradnya-nakade&label=Profile%20views&color=0e75b6&style=flat" alt="pradnya-nakade" /> </p>
 
 - 🔭 I’m currently Pursuing BE in Information Technology **Therapeutic Optimization for Personalized Health Metric Analysis**
 
-- 📫 How to reach me **pradnyanakade17@gmail.com**
+- 🌱 I’m currently learning **Prompt Engineering**
+
+- 💬 Ask me about **Full stack development,Al/ML**
+
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradnya-nakade&show_icons=true&locale=en" alt="pradnya-nakade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradnya-nakade&" alt="pradnya-nakade" /></p>
+
